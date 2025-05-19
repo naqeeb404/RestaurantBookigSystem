@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/RestaurantBookigSystem/static/css/main.5403b7cf.css",
-    "main.js": "/RestaurantBookigSystem/static/js/main.85283fb9.js",
-    "static/js/787.ea94e78c.chunk.js": "/RestaurantBookigSystem/static/js/787.ea94e78c.chunk.js",
+    "main.css": "/RestaurantBookigSystem/static/css/main.9ab81754.css",
+    "main.js": "/RestaurantBookigSystem/static/js/main.57b1880b.js",
+    "static/js/787.7450053b.chunk.js": "/RestaurantBookigSystem/static/js/787.7450053b.chunk.js",
     "static/media/icon-snapchat.svg": "/RestaurantBookigSystem/static/media/icon-snapchat.103c239201d82cb77954414a34fb350e.svg",
     "index.html": "/RestaurantBookigSystem/index.html",
     "static/media/icon-instagram.svg": "/RestaurantBookigSystem/static/media/icon-instagram.c2056460bbbf6c051f72df6d7c2fa6dc.svg",
     "static/media/icon-yelp.svg": "/RestaurantBookigSystem/static/media/icon-yelp.fcec9306eb760e748dc4fe8904b5f8a1.svg",
     "static/media/icon-pinterest.svg": "/RestaurantBookigSystem/static/media/icon-pinterest.8ebc0338430682823a92a53e5e87e868.svg",
     "static/media/icon-facebook.svg": "/RestaurantBookigSystem/static/media/icon-facebook.9b444da5aa9a56243f8c6dde17a22a43.svg",
-    "main.5403b7cf.css.map": "/RestaurantBookigSystem/static/css/main.5403b7cf.css.map",
-    "main.85283fb9.js.map": "/RestaurantBookigSystem/static/js/main.85283fb9.js.map",
-    "787.ea94e78c.chunk.js.map": "/RestaurantBookigSystem/static/js/787.ea94e78c.chunk.js.map"
+    "main.9ab81754.css.map": "/RestaurantBookigSystem/static/css/main.9ab81754.css.map",
+    "main.57b1880b.js.map": "/RestaurantBookigSystem/static/js/main.57b1880b.js.map",
+    "787.7450053b.chunk.js.map": "/RestaurantBookigSystem/static/js/787.7450053b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5403b7cf.css",
-    "static/js/main.85283fb9.js"
+    "static/css/main.9ab81754.css",
+    "static/js/main.57b1880b.js"
   ]
 }
